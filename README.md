@@ -34,4 +34,6 @@ of the Packet Format Descriptor in decimal. The same value will be
 presented in **Descriptor (Hex)** in 32-bit hexadecimal.
 1. Put a textual description of the format in the **Description**
 field.
-
+1. Unfortunately, git is unable to merge Excel files. Once you compute
+your new entry, send it by e-mail to [the list
+maintainers](mailto:reg@rist.tv).
