@@ -13,7 +13,7 @@ must only be edited with Excel. Other tools may break it.
 
 The steps are:
 
-1. Carefully review section 5.1.7 of VSF TR-06-3 for the rules on how
+1. Carefully review section 5.2.7 of VSF TR-06-3 for the rules on how
 to assign values.
 1. Use the drop-down in the **Organization** column to select the
 organization from which the document originates.
@@ -21,7 +21,7 @@ organization from which the document originates.
 automatically populated with the correct code. Do not change this
 value.
 1. Enter the document number as per instructions in TR-06-3 section
-5.1.7.
+5.2.7.
 1. If the document has a part or sub-part, enter it in the
 **Part/Sub-Part** field. Otherwise, you can leave it blank. For
 organizations whose documents have no parts or sub-parts (e.g., RFCs),
